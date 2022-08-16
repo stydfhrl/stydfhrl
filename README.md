@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fahril Setyoadi
-- 👀 I’m interested in heavy music, memes, idiot stuff
+- 👀 I’m interested in heavy music, memes
 - 🌱 I’m currently learning laravel, UI UX design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : 
