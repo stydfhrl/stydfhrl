@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fahril Setyoadi
 - 👀 I’m interested in heavy music, memes
-- 🌱 I’m currently learning laravel, UI UX design
+- 🌱 I’m currently learning laravel, UI UX design, Vue.js, and Voyager
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : 
                       Telegram :https://t.me/stydfhrl
